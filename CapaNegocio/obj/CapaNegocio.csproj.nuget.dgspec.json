@@ -1,0 +1,196 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaNegocio\\CapaNegocio.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaData\\CapaData.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaData\\CapaData.csproj",
+        "projectName": "CapaData",
+        "projectPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaData\\CapaData.csproj",
+        "packagesPath": "C:\\Users\\jose.alonso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaData\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jose.alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj",
+        "projectName": "CapaEntidades",
+        "projectPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj",
+        "packagesPath": "C:\\Users\\jose.alonso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jose.alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaNegocio\\CapaNegocio.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaNegocio\\CapaNegocio.csproj",
+        "projectName": "CapaNegocio",
+        "projectPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaNegocio\\CapaNegocio.csproj",
+        "packagesPath": "C:\\Users\\jose.alonso\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaNegocio\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jose.alonso\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaData\\CapaData.csproj": {
+                "projectPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaData\\CapaData.csproj"
+              },
+              "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj": {
+                "projectPath": "C:\\Users\\jose.alonso\\Documents\\Visual Studio\\Projects\\AppTareas\\CapaEntidades\\CapaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

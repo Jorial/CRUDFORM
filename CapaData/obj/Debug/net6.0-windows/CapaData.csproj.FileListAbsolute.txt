@@ -1,0 +1,15 @@
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\bin\Debug\net6.0-windows\CapaData.deps.json
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\bin\Debug\net6.0-windows\CapaData.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\bin\Debug\net6.0-windows\CapaData.pdb
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.csproj.AssemblyReference.cache
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.AssemblyInfoInputs.cache
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.AssemblyInfo.cs
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.csproj.CoreCompileInputs.cache
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\refint\CapaData.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.pdb
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\ref\CapaData.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\bin\Debug\net6.0-windows\CapaEntidades.dll
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\bin\Debug\net6.0-windows\CapaEntidades.pdb
+C:\Users\jose.alonso\Documents\Visual Studio\Projects\AppTareas\CapaData\obj\Debug\net6.0-windows\CapaData.csproj.CopyComplete
